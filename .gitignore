@@ -1,0 +1,7 @@
+.git/
+.idea
+venv/
+.ipynb_checkpoints/
+__*
+mission_launches.csv
+Space+Missions+(start).zip
